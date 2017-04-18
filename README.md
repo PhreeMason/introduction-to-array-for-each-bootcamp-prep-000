@@ -1,4 +1,4 @@
-Introduction to Array.prototype.forEach
+learIntroduction to Array.prototype.forEach
 ---
 
 ## Objectives
